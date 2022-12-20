@@ -1,2 +1,3 @@
 Normalizing Inputs:-The inputs given could be in different ranges,so we do normalization over such data.
 same scale
+Feature scaling can be done by either standardisation or normalization
